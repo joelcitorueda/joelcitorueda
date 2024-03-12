@@ -1,6 +1,5 @@
 
-<p align="center">
-    <img width="200" src="https://github.com/joelcitorueda/joelcitorueda/blob/main/fotogit.jpeg">
+
 </p>
 
 <h1> Hola eres bienvenido a mi perfil de github <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>

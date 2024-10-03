@@ -21,7 +21,7 @@
   
 - 🤔 Mis intereses son altos en aprender y adquirir mucho mas conocimientos
   
-- 💬 Tengo conocimientos basicos en Sql developer (oracle), C#, python e inglees basico
+- 💬 Tengo conocimientos basicos en Sql developer (oracle), Sql Server, MySql Worbech, Php, C#, python e Ingles Tecnico.
   
 - 📫 Mi Email es [ruedafloresjulian722@gmail.com](mailto:ruedafloresjulian722@gmail.com).
   
